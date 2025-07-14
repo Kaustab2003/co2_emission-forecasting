@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+statsmodels
+scipy
+pyarrow
+fpdf
+plotly
+requests
+folium
+streamlit-folium
+ydata-profiling
+sweetviz
