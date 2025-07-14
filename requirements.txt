@@ -13,5 +13,3 @@ plotly
 requests
 folium
 streamlit-folium
-ydata-profiling
-sweetviz
